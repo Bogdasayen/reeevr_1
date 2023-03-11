@@ -1,0 +1,5 @@
+Package: REEEVR
+Type: Package
+Title: Reliable and Efficient Estimation of the Economic Value of medical Research  
+Version: 0.0.1.0
+RoxygenNote: 7.2.3
